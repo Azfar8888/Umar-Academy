@@ -1,26 +1,15 @@
 <<<<<<< HEAD
 # Umar-Academy
 =======
-## About Infix Edu - The Ultimate Education Management System For School, Institute & Academy 
+## About Umar-Academy
 
-Managing various administrative tasks in one place is now quite easy and time savior with this INFIX and Give your valued time to your institute that will increase next generation productivity for our society.
+Umar Academy is a premier online Quran program dedicated to helping students of all ages reach their learning goals for the Holy Quran. Our mission is to provide a high-quality and accessible education for anyone seeking to deepen their skills relating to the Quran. Our team of qualified instructors are committed to providing students with personalized attention and support, ensuring that each student reaches their full potential.
 
-VIDEO OVERVIEW 
-INFIX has all in one place. You’ll find everything what you are looking into education management system software.
+## Mission Statement
 
+At Umar Academy, we’re passionate about instilling a greater love for Allah, His Messenger ﷺ, and His Holy Book. We believe that our students’ journey with the Quran is a lifelong one, and we are honored to play a part in their spiritual growth.
 
-## Tons of Features
-INFIX has all in one place. You’ll find everything what you are looking into education management system software.
-
-## User Friendly Interface
-We care! User will never bothered in our real eye catchy user friendly UI & UX Interface design. 
-
-## Proper Documentation
-You know! Smart Idea always comes to well planners. And Our INFIX is Smart for its Well Documentation. 
-
-
-## Powerful Support
-Explore in new support world! It’s now faster & quicker. You’ll find us on Support Ticket, Email, Skype, WhatsApp.
+Umar Academy is a premier online Quran program dedicated to helping students of all ages reach their learning goals for the Holy Quran. Our mission is to provide a high-quality and accessible education for anyone seeking to deepen their skills relating to the Quran.
 
 
  
