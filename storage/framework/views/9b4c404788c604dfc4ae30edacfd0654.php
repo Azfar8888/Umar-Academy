@@ -1,0 +1,1 @@
+<?php echo @$body; ?><?php /**PATH /home/r5g3w8ncebh7/public_html/portal.umaracademy.org/resources/views/backEnd/email/emailBody.blade.php ENDPATH**/ ?>
